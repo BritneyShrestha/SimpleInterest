@@ -1,0 +1,10 @@
+C:\Users\Britney\source\repos\WindowsFormsSIMPLEINTEREST\WindowsFormsSIMPLEINTEREST\bin\Debug\WindowsFormsSIMPLEINTEREST.exe.config
+C:\Users\Britney\source\repos\WindowsFormsSIMPLEINTEREST\WindowsFormsSIMPLEINTEREST\bin\Debug\WindowsFormsSIMPLEINTEREST.exe
+C:\Users\Britney\source\repos\WindowsFormsSIMPLEINTEREST\WindowsFormsSIMPLEINTEREST\bin\Debug\WindowsFormsSIMPLEINTEREST.pdb
+C:\Users\Britney\source\repos\WindowsFormsSIMPLEINTEREST\WindowsFormsSIMPLEINTEREST\obj\Debug\WindowsFormsSIMPLEINTEREST.csproj.AssemblyReference.cache
+C:\Users\Britney\source\repos\WindowsFormsSIMPLEINTEREST\WindowsFormsSIMPLEINTEREST\obj\Debug\WindowsFormsSIMPLEINTEREST.Form1.resources
+C:\Users\Britney\source\repos\WindowsFormsSIMPLEINTEREST\WindowsFormsSIMPLEINTEREST\obj\Debug\WindowsFormsSIMPLEINTEREST.Properties.Resources.resources
+C:\Users\Britney\source\repos\WindowsFormsSIMPLEINTEREST\WindowsFormsSIMPLEINTEREST\obj\Debug\WindowsFormsSIMPLEINTEREST.csproj.GenerateResource.cache
+C:\Users\Britney\source\repos\WindowsFormsSIMPLEINTEREST\WindowsFormsSIMPLEINTEREST\obj\Debug\WindowsFormsSIMPLEINTEREST.csproj.CoreCompileInputs.cache
+C:\Users\Britney\source\repos\WindowsFormsSIMPLEINTEREST\WindowsFormsSIMPLEINTEREST\obj\Debug\WindowsFormsSIMPLEINTEREST.exe
+C:\Users\Britney\source\repos\WindowsFormsSIMPLEINTEREST\WindowsFormsSIMPLEINTEREST\obj\Debug\WindowsFormsSIMPLEINTEREST.pdb
